@@ -1,0 +1,9 @@
+psutil
+PyQt-Fluent-Widgets
+requests
+
+py7zr
+PyQt5
+aiohttp
+tqdm
+scapy

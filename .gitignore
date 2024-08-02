@@ -1,0 +1,8 @@
+/log/
+/src/test/
+/test/
+/build/
+/dist/
+/assets/idv-login.7z
+/.venv/
+/.idea/
